@@ -1,9 +1,0 @@
-streamlit
-requests
-newsapi-python
-langchain-groq
-pandas
-ta
-matplotlib
-nest_asyncio
-langchain
